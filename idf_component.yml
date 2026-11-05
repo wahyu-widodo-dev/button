@@ -1,0 +1,9 @@
+version: "1.0.0"
+description: "Driver tombol GPIO berbasis polling dengan debounce, event klik, dan tekan lama untuk ESP-IDF."
+url: "https://github.com/wahyu-widodo-dev/button"
+repository: "https://github.com/wahyu-widodo-dev/button"
+license: "MIT"
+
+dependencies:
+  idf:
+    version: ">=5.3.0"
